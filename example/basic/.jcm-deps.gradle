@@ -4,5 +4,6 @@
 apply plugin: 'java'
 
 dependencies {
-    
+    implementation('com.github.jomifred:n-agent:1.0')
+
 }

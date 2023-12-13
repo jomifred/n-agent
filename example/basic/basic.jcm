@@ -3,4 +3,5 @@ mas basic {
     agent bob {
     }
 
+    uses package: n_agent "com.github.jomifred:n-agent:1.0"
 }
